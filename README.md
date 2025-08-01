@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diogo Martins!</h1>
-<h3 align="center">Hi! I'm a Software Engineer from Portugal with a strong interest in Cybersecurity and Software Development. I'm currently working towards a Master's degree in Cybersecurity and have previous experience working as a Project Manager. Lately, I’ve been focused on building new projects to deepen my practical skills, especially in cybersecurity. I also enjoy participating in Capture The Flag (CTF) challenges, a fun (and humbling) way to learn more about real-world vulnerabilities.</h3>
-
-- 📫 How to reach me **jdmartins04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diogo-martins-b9a1aa247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diogo-martins-b9a1aa247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
-
+<p>Hi! I'm a Software Engineer from Portugal with a strong interest in Cybersecurity and Software Development. I'm currently working towards a Master's degree in Cybersecurity and have previous experience working as a Project Manager. Lately, I’ve been focused on building new projects to deepen my practical skills, especially in cybersecurity. I also enjoy participating in Capture The Flag (CTF) challenges, a fun (and humbling) way to learn more about real-world vulnerabilities.<p>
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+- 📫 How to reach me: **jdmartins04@gmail.com**
+
+--- 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diog0martins&show_icons=true&locale=en" alt="diog0martins" /></p>
 
