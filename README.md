@@ -4,6 +4,7 @@
 - 📫 How to reach me: **jdmartins04@gmail.com**
 
 --- 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diog0martins&show_icons=true&locale=en" alt="diog0martins" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diog0martins&show_icons=true&locale=en" alt="diog0martins" />
+</div>
 
