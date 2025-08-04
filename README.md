@@ -5,6 +5,6 @@
 
 --- 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diog0martins&show_icons=true&locale=en" alt="diog0martins" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diog0martins&show_icons=true&hide=issues,contribs&theme=cobalt&locale=en" alt="diog0martins" />
 </div>
 
